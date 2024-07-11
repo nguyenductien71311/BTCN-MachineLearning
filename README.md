@@ -3,7 +3,7 @@
 **Student information:**
 - ID: 20120383
 - Name: Nguyễn Đức Tiến
-- Youtube demo: comming soon
+- Youtube demo: [comming soon](https://youtu.be/TwwguZza4Dc)
 
 ## Step by step to run app
 **1. Import python lib**
